@@ -1,4 +1,4 @@
-import math
+  import math
 
 # 1: Imprime lo que es la bienvenida y mis datos personales.
 mensaje = "Bienvenido a la calculadora ONE PIECE"
@@ -22,7 +22,7 @@ def calculadora():
     c = entrada.strip()
 
     # 3.2:comando de salida
-    if c == "quit"or "QUIT" or "Quit":
+    if c == "quit":
         print(mensaj + "\n" + agra)
         return
     try:
