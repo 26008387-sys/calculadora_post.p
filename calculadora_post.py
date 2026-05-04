@@ -1,12 +1,13 @@
 import math
 
 # 1: Imprime lo que es la bienvenida y mis datos personales.
-mensaje = "Bienvenido a la calculadora one piEce"
+mensaje = "Bienvenido a la calculadora ONE PIECE"
 espacio = " "
 nombre = "implementado por: Carlos Samuel Santos Oriz"
 carnet = "carnet: 26008387"
-seccion= "CN"
-print((mensaje + espacio + "\n" + nombre + "\n" + carnet + "\n" + seccion))
+seccion= "Seccio: CN"
+NO_Grupo= "NO_Grupo: 14"
+print((mensaje + espacio + "\n" + nombre + "\n" + carnet + "\n" + seccion + "\n" + NO_Grupo))
 
 # 2: seccion de mensajes de salida y de error.
 mensaj = "Saliendo..."
