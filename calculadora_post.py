@@ -22,7 +22,7 @@ def calculadora():
     c = entrada.strip()
 
     # 3.2:comando de salida
-    if c == "quit":
+    if c == "quit"or "QUIT" or "Quit":
         print(mensaj + "\n" + agra)
         return
     try:
