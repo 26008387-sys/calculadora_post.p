@@ -1,4 +1,4 @@
-  import math
+import math
 
 # 1: Imprime lo que es la bienvenida y mis datos personales.
 mensaje = "Bienvenido a la calculadora ONE PIECE"
